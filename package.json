@@ -1,0 +1,27 @@
+{
+  "name": "lasvegas",
+  "version": "1.0.0",
+  "description": "Catering website",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "html": "^0.0.10",
+    "mssql": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello World",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipin-vis/LasVegas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vipin-vis/LasVegas/issues"
+  },
+  "homepage": "https://github.com/Vipin-vis/LasVegas#readme"
+}
